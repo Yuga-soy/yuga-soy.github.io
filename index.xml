@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yugaのポートフォリオ</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yuga-soy.github.io/</link>
     <description>Recent content on Yugaのポートフォリオ</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 15 Jun 2025 13:56:39 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yuga-soy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>はじめに</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://yuga-soy.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 15 Jun 2025 13:56:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://yuga-soy.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;こちらはYugaの活動報告、ポートフォリオです&lt;/p&gt;&#xA;&lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;&#xA;&lt;p&gt;電気通信大学2025年入学&lt;/p&gt;&#xA;&lt;h2 id=&#34;やりたいこと&#34;&gt;やりたいこと&lt;/h2&gt;&#xA;&lt;p&gt;PC、VRゲーム制作を行なっていき、ここにそのポートフォリオをまとめていきたいと思います！&lt;/p&gt;</description>
     </item>
   </channel>
